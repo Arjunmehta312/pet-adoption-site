@@ -1,0 +1,15 @@
+{
+  "name": "pet-adoption-site",
+  "version": "1.0.0",
+  "description": "A Node.js pet adoption site showcasing pets, adoption resources, and an online store.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["pet", "adoption", "nodejs", "express", "site"],
+  "author": "Arjunmehta312",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+} 

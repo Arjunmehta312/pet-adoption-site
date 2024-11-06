@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart - Pet Adoption Showcase</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Pet Adoption Showcase</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="pets.html">Available Pets</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="success-stories.html">Success Stories</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="sponsorship.html">Sponsorship</a></li>
+                <li><a href="faq.html">FAQ</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="cart.html" class="active">Cart</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+        <h2>Your Shopping Cart</h2>
+        <div id="cart-items">
+            <!-- Cart items will be dynamically added here -->
+        </div>
+        <div id="cart-total">
+            <h3>Total: $<span id="total-amount">0.00</span></h3>
+            <button id="checkout-button">Proceed to Checkout</button>
+        </div>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
