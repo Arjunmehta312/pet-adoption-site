@@ -99,7 +99,7 @@ pet-adoption-site/
 
 The website is hosted and deployed on Vercel. The production URL is:
 
-https://wp-pet-adoption-rkfhw56kk-catcharjunmehta-gmailcoms-projects.vercel.app
+https://wp-pet-adoption.vercel.app
 
 You can also deploy this site by following the instructions on Vercel’s platform.
 
