@@ -144,11 +144,3 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 Express for creating a lightweight and powerful backend framework.  
 Vercel for easy deployment.  
 Thank you for checking out the Pet Adoption Site!
-
-Citations:
-[1] https://stackoverflow.com/questions/66379109/using-express-and-node-to-connect-html-css-and-javascript-to-a-server
-[2] https://www.youtube.com/watch?v=dGY3fgfLEyA
-[3] https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
-[4] https://www.youtube.com/watch?v=A01KtJTv1oc
-[5] https://www.w3schools.com/nodejs/
-[6] https://expressjs.com
